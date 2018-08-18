@@ -8,4 +8,4 @@ SCustomerID,SCustomerName,SCustomerAmount,SCustomerAddress,SCustomerCountry,SCus
 1007,Fred,3233,Managua,Nicaragua,Y
 1008,Sam,8942,San Marino,San Marino,N
 1009,Tom,4456,Rome,Italy,Y
-1010,Wally,Tokyo,Japan,N
+1010,Wally,1211,Tokyo,Japan,N
