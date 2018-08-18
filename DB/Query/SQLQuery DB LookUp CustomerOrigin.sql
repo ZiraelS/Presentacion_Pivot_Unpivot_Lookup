@@ -8,7 +8,7 @@ INSERT INTO [dbo].[CustomerOrigin]
      VALUES
            (1001,'Sham',5655,'Kurla Naka','India','Y')
 		, (1002,'Shiv',3274,'Milind Link Road','USA','Y')
-		, (1003,'Khadak',4793,'Kathmandu Road','Neapl','N')
+		, (1003,'Khadak',4793,'Kathmandu Road','Nepal','N')
 		, (1004,'Robin',1793,'Makers Road','Thailand','Y')
 		, (1005,'Gary',4657,'MBR City','Dubai','N')
 		, (1006,'Allwyn',4641,'Wellington Street','Australia','N')
