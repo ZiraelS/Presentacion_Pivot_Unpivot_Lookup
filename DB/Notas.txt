@@ -1,0 +1,2 @@
+Utilizar los Querys incluidos en la Carpeta Query para crear la base de datos e incertar los datos.
+Correr la funcionalidad de Pivot antes de Unpivot, y luego utlizar el Query de "SQLQuery DB UnPivot Origin" para pasar los datos a la tabla UnpivotOrigin.
